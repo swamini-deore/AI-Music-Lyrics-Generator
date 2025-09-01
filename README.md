@@ -4,9 +4,9 @@ AI Music Lyrics Generator is an NLP-powered project that creates unique and crea
 
 The AI Music Lyrics Generator is a Natural Language Processing (NLP) project that automatically generates song lyrics based on a given theme, mood, or style. It leverages machine learning models to produce creative, human-like lyrics that can inspire musicians, writers, and content creators.
 
-output 1
+output 1:
 <img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/9ceaf801-f0df-4bf2-bcc1-92162fe761fc" />
-output 2
+output 2:
 <img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/98846753-c882-4665-9574-328c426f7e56" />
 
 
@@ -36,14 +36,17 @@ Optional: gTTS / pyttsx3 for speech output
 📦 Installation
 
 Clone the repository
+
 git clone https://github.com/yourusername/ai-lyrics-generator.git cd ai-lyrics-generator
 
 Install dependencies
+
 pip install -r requirements.txt
 
 ▶️ Usage
 
 Run the generator
+
 python generate.py --theme "love" --mood "happy"
 
 Example Output:
