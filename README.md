@@ -41,9 +41,11 @@ git clone https://github.com/yourusername/ai-lyrics-generator.git cd ai-lyrics-g
 
 Install dependencies
 
+
 pip install -r requirements.txt
 
 ▶️ Usage
+
 
 Run the generator
 
@@ -67,7 +69,3 @@ Add melody generation for complete AI-powered songs.
 
 This project is licensed under the MIT License – free to use and modify.
 
-
-
-Manage cookies
-Do not share my personal information
